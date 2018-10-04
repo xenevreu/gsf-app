@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "gsfApp",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "pt-br",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.1",
+    "jwtSecretKey": "NWE3OGNjODhmMzdlYzg3ZmFkZWI1ZTQ0ZTQyODEzYWJlY2ExN2QxNzczNjc2YzkxYWZlYzIyYmMxNmFmYzBhMjk4YWIyMWIwYWQwMjUzYmE4YjJkM2MyMmVjYWVjODA2ZTM0ZGVkN2VlNWRlNDhlZGM3ZDMyYzdiMWJmOGFkZDk="
+  },
+  "git-provider": "GitHub",
+  "git-company": "xenevreu",
+  "repository-name": "gsf-app"
+}
